@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @gonrigo18
+- 👀 I’m interested on developer´s jobs...
+- 🌱 I’m currently learning Full stack...
+- 📫 How to reach me, send a message to gonzalo.rigobello18@gmail.com...
+
+<!---
+gonrigo18/gonrigo18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
